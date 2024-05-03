@@ -73,8 +73,6 @@ namespace Course {
             Console.WriteLine(idade);
             Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
 
-
-
         }
     }
 }

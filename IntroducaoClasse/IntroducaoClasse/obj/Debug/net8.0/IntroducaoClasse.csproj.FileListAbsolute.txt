@@ -1,0 +1,15 @@
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\bin\Debug\net8.0\IntroducaoClasse.exe
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\bin\Debug\net8.0\IntroducaoClasse.deps.json
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\bin\Debug\net8.0\IntroducaoClasse.runtimeconfig.json
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\bin\Debug\net8.0\IntroducaoClasse.dll
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\bin\Debug\net8.0\IntroducaoClasse.pdb
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.AssemblyInfoInputs.cache
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.AssemblyInfo.cs
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.csproj.CoreCompileInputs.cache
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.sourcelink.json
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.dll
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\refint\IntroducaoClasse.dll
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.pdb
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\IntroducaoClasse.genruntimeconfig.cache
+D:\Documentos\C#Completo\projetos\IntroducaoClasse\IntroducaoClasse\obj\Debug\net8.0\ref\IntroducaoClasse.dll

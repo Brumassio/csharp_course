@@ -1,0 +1,15 @@
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\bin\Debug\net8.0\Sessao4.exe
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\bin\Debug\net8.0\Sessao4.deps.json
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\bin\Debug\net8.0\Sessao4.runtimeconfig.json
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\bin\Debug\net8.0\Sessao4.dll
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\bin\Debug\net8.0\Sessao4.pdb
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.AssemblyInfoInputs.cache
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.AssemblyInfo.cs
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.csproj.CoreCompileInputs.cache
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.sourcelink.json
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.dll
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\refint\Sessao4.dll
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.pdb
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\Sessao4.genruntimeconfig.cache
+D:\Documentos\C#Completo\projetos\Sessao4\Sessao4\obj\Debug\net8.0\ref\Sessao4.dll

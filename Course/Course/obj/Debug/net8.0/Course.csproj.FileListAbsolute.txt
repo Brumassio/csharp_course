@@ -12,3 +12,4 @@ D:\Documentos\C#Completo\projetos\Course\Course\obj\Debug\net8.0\refint\Course.d
 D:\Documentos\C#Completo\projetos\Course\Course\obj\Debug\net8.0\Course.pdb
 D:\Documentos\C#Completo\projetos\Course\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
 D:\Documentos\C#Completo\projetos\Course\Course\obj\Debug\net8.0\ref\Course.dll
+D:\Documentos\C#Completo\projetos\Course\Course\obj\Debug\net8.0\Course.sourcelink.json
