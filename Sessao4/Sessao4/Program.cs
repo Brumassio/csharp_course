@@ -42,6 +42,14 @@ namespace Sessao4 {
             a1.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             a1.aprovacao();
+
+
+            Console.WriteLine("-------------------------------------\nExercício de fixação -> Membros estáticos");
+            Console.WriteLine("Qual a cotação do dollar ?");
+            double cotDollar = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            Console.WriteLine("Quantos dollares você vai comprar ?");
+            double qtdDollar = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            Console.WriteLine($"Valor a ser pago em reais = {ConversorDeMoeda.ConverterMoeda(cotDollar,qtdDollar).ToString("F2",CultureInfo.InvariantCulture)}"); 
         }
     }
 }
