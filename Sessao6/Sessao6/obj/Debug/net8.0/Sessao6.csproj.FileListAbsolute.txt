@@ -1,0 +1,15 @@
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\bin\Debug\net8.0\Sessao6.exe
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\bin\Debug\net8.0\Sessao6.deps.json
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\bin\Debug\net8.0\Sessao6.runtimeconfig.json
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\bin\Debug\net8.0\Sessao6.dll
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\bin\Debug\net8.0\Sessao6.pdb
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.AssemblyInfoInputs.cache
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.AssemblyInfo.cs
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.csproj.CoreCompileInputs.cache
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.sourcelink.json
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.dll
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\refint\Sessao6.dll
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.pdb
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\Sessao6.genruntimeconfig.cache
+D:\Documentos\C#Completo\projetos\Sessao6\Sessao6\obj\Debug\net8.0\ref\Sessao6.dll
