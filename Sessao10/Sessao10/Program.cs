@@ -45,6 +45,44 @@ namespace Sessao10
             {
                 Console.WriteLine(product.PriceTag());
             }
+
+            Console.WriteLine();
+            Console.WriteLine("Segundo Exercício de fixação -> Classe abstrata !");
+            List<TaxPayer> list2 = new List<TaxPayer>();
+            Console.Write("Enter the number of tax payers:");
+            int taxPayers = int.Parse(Console.ReadLine());
+
+            for(int i =0; i<taxPayers;i++)
+            {
+                Console.WriteLine($"Tax payer #{i+1} data: ");
+                Console.Write("Individual or company (i/c)? ");
+                char option = char.Parse(Console.ReadLine());
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+                Console.Write("Anual Income: ");
+                double anualIncome = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                if(option  == 'i')
+                {
+                    Console.Write("Health expenditures: ");
+                    double healthExp = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+                    list2.Add(new Individual(name,anualIncome,healthExp));
+                }
+                else if (option == 'c')
+                {
+                    Console.Write("Number of employees: ");
+                    int numberOfEmp = int.Parse(Console.ReadLine());
+                    list2.Add(new Company(name,anualIncome,numberOfEmp));
+                }
+            }
+
+            Console.WriteLine("\nTAXES PAID:");
+            double totalTaxes = 0.0;
+            foreach(TaxPayer taxPayer in list2)
+            {
+                Console.WriteLine(taxPayer.Name + ": $ "+ taxPayer.Tax().ToString("F2",CultureInfo.InvariantCulture));
+                totalTaxes += taxPayer.Tax();
+            }
+            Console.WriteLine($"\nTOTAL TAXES: $ {totalTaxes.ToString("F2",CultureInfo.InvariantCulture)}");
         }
     }
 }
