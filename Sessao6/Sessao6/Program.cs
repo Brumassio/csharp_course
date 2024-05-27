@@ -3,7 +3,7 @@
 namespace Sessao6 {
     internal class Program {
         static void Main(string[] args) {
-            /*
+            
             Console.WriteLine("------------------------------\nExércício de fixação -> vetores\n");
             RegistroPensionato[] reg = new RegistroPensionato[10];
 
@@ -63,7 +63,7 @@ namespace Sessao6 {
             {
                 Console.WriteLine(item);
             }
-            */
+
             Console.WriteLine("------------------------------\nExércício de fixação -> Matrizes\n");
             Console.Write("How many lines ? ");
             int lines = int.Parse(Console.ReadLine());
