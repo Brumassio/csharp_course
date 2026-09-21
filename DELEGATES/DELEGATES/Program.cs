@@ -53,6 +53,7 @@ internal class Program
 
         var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 300);
         var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+
         Print("Tier 1 AND Price < 300", r1);
         Print("Category Name = 'Tools'", r2);
 
